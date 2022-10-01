@@ -1,1 +1,12 @@
-# Simple CRUD APP
+# CRUD App
+
+## Technologies
+* React.js
+* CSS
+* React Hooks
+
+## Features
+* Add data
+* Edit Data
+* Delete Data
+* Storing Data
